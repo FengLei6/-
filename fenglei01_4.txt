@@ -3,3 +3,7 @@ master 冲突
 冲突已经处理
 发生冲突fengfei
 
+发生冲突fengfei
+master 冲突
+发生冲突
+冲突已经处理
